@@ -17,7 +17,8 @@ h2{
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
-    background: rgba(230, 223, 223, 0.342);
+    background: rgb(240,239,239);
+    background: radial-gradient(circle, rgba(240,239,239,0.6250875350140056) 0%, rgba(255,246,209,0.6054794520547946) 100%);
     color: black;
     padding: 10px;
 }
